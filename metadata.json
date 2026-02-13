@@ -1,0 +1,5 @@
+{
+  "name": "Focus Timer Grid",
+  "description": "A productivity app featuring multiple countdown timers. Users select squares to start timed sessions, with restrictions to focus on one task at a time.",
+  "requestFramePermissions": []
+}
